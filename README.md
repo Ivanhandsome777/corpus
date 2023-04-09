@@ -21,3 +21,7 @@ link：https://drive.google.com/file/d/1w4vmt2Fb9gyeD9k9gwWQc8hAIoFOBMwm/view?us
 其中words_list是查询单词列表，digit是输出参数小数位数。  
 export_to_excel表示是否输出为xlsx文件。  
 export_path表示输出文件路径，export_file_name表示输出文件名称。  
+
+
+## 更新方向
+1、模块化；2、自动下载语料库资源；3、功能优化；4、速度提升
